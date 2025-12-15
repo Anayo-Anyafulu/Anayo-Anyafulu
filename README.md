@@ -1,58 +1,72 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=120&section=header&text=Anayo%20Anyafulu&fontSize=40&fontColor=13fda3&stroke=13fda3&strokeWidth=1"/>
 
 ## 🧑‍💻 About Me
-I'm a backend engineer who discovered programming in high school while preparing for an IGCSE exam — and that single spark turned into a passion that’s still growing today.
+I’m a backend-focused engineer who discovered programming in high school while preparing for an IGCSE exam — and that single spark turned into a long-term obsession with building systems that *make sense*.
 
-I love:
-- 🎮 Gaming  
-- 🎬 Movies  
-- 📺 Series  
-- 🧪 Experimenting with random tech ideas  
-- 💻 Building systems that feel clean, fast, and meaningful  
+I enjoy building things that feel:
+- **Clean**
+- **Fast**
+- **Intentional**
 
-Currently exploring:
-- Rust basics (slow and steady)
-- A secret early-stage startup idea 👀  
-- 2D game dev (just for fun and chaos)
-- AI concepts that can improve backend workflows
+Outside of pure backend work, I explore ideas that mix systems, creativity, and experimentation.
 
----
-
-## 🧠 Currently Learning
-- Rust (ownership, lifetimes, CLI experiments)
-- AI + ML fundamentals  
-- Game dev foundations (2D mechanics, design loops)
-- Deeper Spring Boot backend patterns  
+**Things I genuinely enjoy**
+- 🎮 Story-driven & open-world games  
+- 🎬 Movies and long-form series  
+- 🧪 Experimenting with random technical ideas  
+- 💻 Designing backend systems and developer tools  
 
 ---
 
-## 🎯 My Mission
-Build things I genuinely enjoy — projects that reflect creativity, structure, and curiosity.  
-Whether it’s a Java backend, a Rust experiment, or a tiny game prototype.
+## 🧠 Currently Exploring
+- **Rust** — ownership, lifetimes, CLI tools, systems thinking  
+- **Backend architecture** — cleaner Spring Boot patterns and structure  
+- **AI fundamentals** — practical use cases for developer workflows  
+- **2D game development** — mechanics, loops, and experimentation (for fun)  
 
 ---
 
-## 🚀 Featured Projects
-- **Spring Boot Movie API** — simple but clean backend structure  
-- **Spring Boot Mini Services** — learning micro patterns  
-- **Rust CLI Tests** — learning Rust through tools  
-- **2D Game Prototype** — chaotic WIP, but fun practice  
-- (**More coming — especially once the startup idea forms**)  
+## 🎯 Philosophy & Direction
+I don’t build projects just to “fill a portfolio”.
+
+I build things I’m curious about — tools, systems, or experiments that help me:
+- Think more clearly
+- Understand systems deeper
+- Explore ideas end-to-end
+
+Whether it’s a Java backend, a Rust CLI, or a small game prototype, the goal is always **learning through building**.
 
 ---
 
-## 🗺️ Roadmap
-- Strengthen Rust fundamentals  
-- Build at least one playable 2D game  
-- Launch more backend-focused projects  
-- Explore AI for practical developer workflows  
-- Continue improving Java + Spring Boot mastery  
+## 🚀 Selected Projects
+- **Spring Boot Movie API**  
+  Clean backend structure focused on REST design and data flow  
+
+- **Spring Boot Mini-Services**  
+  Exploring service boundaries, patterns, and modular design  
+
+- **Rust CLI Experiments**  
+  Small tools built while learning Rust fundamentals  
+
+- **2D Game Prototype**  
+  Chaotic WIP focused on mechanics and experimentation  
+
+> More projects coming — especially as a certain early-stage idea takes shape 👀
 
 ---
 
-## 🧰 Skills Map
+## 🗺️ Personal Roadmap
+- Deepen **Rust fundamentals** through real tools  
+- Build at least **one complete playable 2D game**  
+- Ship more **backend-centric projects**  
+- Explore **AI for practical developer tooling**  
+- Continue refining **Java + Spring Boot mastery**
 
-### **Strong At**
+---
+
+## 🧰 Skills Overview
+
+### **Strong**
 - **Java** • Spring Boot  
 - **Python** • Flask  
 - Backend systems & APIs  
@@ -62,11 +76,11 @@ Whether it’s a Java backend, a Rust experiment, or a tiny game prototype.
 ### **Growing**
 - Rust  
 - Game development  
-- AI basics  
+- AI fundamentals  
 
 ---
 
-## ⚙️ Tech Stack Badges
+## ⚙️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -80,7 +94,7 @@ Whether it’s a Java backend, a Rust experiment, or a tiny game prototype.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anayo-Anyafulu&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
@@ -88,17 +102,5 @@ Whether it’s a Java backend, a Rust experiment, or a tiny game prototype.
 
 ---
 
-## 🎮 Fun Stuff
-- Huge fan of story-driven and open-world games  
-- Movies and series lover  
-- I enjoy experimenting with random tech projects when bored  
-- I build whatever feels interesting — even if chaotic  
-
----
-
 ## 💬 Personal Motto
-**“Code is a way to express ideas in different forms.”**  
-(Feel free to ask me to style it differently.)
-
----
-
+**“Code is a way to express ideas in different forms.”**
