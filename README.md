@@ -30,28 +30,58 @@ Outside of pure backend work, I explore ideas that mix systems, creativity, and 
 I don’t build projects just to “fill a portfolio”.
 
 I build things I’m curious about — tools, systems, or experiments that help me:
-- Think more clearly
-- Understand systems deeper
-- Explore ideas end-to-end
+- Think more clearly  
+- Understand systems deeper  
+- Explore ideas end-to-end  
 
 Whether it’s a Java backend, a Rust CLI, or a small game prototype, the goal is always **learning through building**.
 
 ---
 
+## 🔧 Currently Building
+
+### 🦀 RustTorrent
+A BitTorrent-inspired peer-to-peer file distribution system built in Rust to explore networking, concurrency, and protocol design.
+
+**Focus**
+- File chunking and hashing  
+- Peer-to-peer communication over TCP  
+- Concurrent piece downloads  
+- Data integrity verification  
+
+> A learning-first systems project, prioritizing correctness and clarity over full protocol completeness.
+
+---
+
+### 📰 Daily Digest
+A personal daily entertainment and developer news digest designed as a clean, read-only experience.
+
+**What it covers**
+- 🎬 Movies & series  
+- 🎮 Games  
+- 🧑‍💻 Developer & tech news  
+
+**Tech direction**
+- Spring Boot for aggregation and APIs  
+- Rust for content processing and tooling  
+- Optional AI for summarization and relevance ranking  
+
+> Built for personal use, inspired by how developers consume Reddit, newsletters, and media updates daily.
+
+---
+
 ## 🚀 Selected Projects
 - **Spring Boot Movie API**  
-  Clean backend structure focused on REST design and data flow  
+  REST-focused backend exploring clean structure and data flow  
 
 - **Spring Boot Mini-Services**  
-  Exploring service boundaries, patterns, and modular design  
+  Experiments with service boundaries, patterns, and modular design  
 
 - **Rust CLI Experiments**  
-  Small tools built while learning Rust fundamentals  
+  Small utilities built while learning Rust fundamentals  
 
 - **2D Game Prototype**  
   Chaotic WIP focused on mechanics and experimentation  
-
-> More projects coming — especially as a certain early-stage idea takes shape 👀
 
 ---
 
@@ -70,8 +100,8 @@ Whether it’s a Java backend, a Rust CLI, or a small game prototype, the goal i
 - **Java** • Spring Boot  
 - **Python** • Flask  
 - Backend systems & APIs  
-- HTML • CSS  
 - JavaScript • React  
+- HTML • CSS  
 
 ### **Growing**
 - Rust  
